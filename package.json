@@ -1,0 +1,12 @@
+{
+  "name": "cloudflare-pages-test",
+  "version": "1.0.0",
+  "description": "Markdown to HTML static site builder",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "marked": "^14.0.0"
+  }
+}
