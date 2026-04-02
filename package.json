@@ -4,9 +4,14 @@
   "description": "Markdown to HTML static site builder",
   "main": "build.js",
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "dependencies": {
     "marked": "^14.0.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.80.0"
   }
 }
