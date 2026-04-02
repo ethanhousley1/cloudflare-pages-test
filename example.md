@@ -148,7 +148,7 @@ They are not available in:
 - To get the connector to work, you will have to enable the connection before beginning a conversation. You cannot set up the connector mid-conversation. This is also a limitation of OpenAI.
 </aside>
 
-1. Go to [**chat.openai.com](https://chat.openai.com/)** and sign into your ChatGPT Pro account
+1. Go to **[chat.openai.com](https://chat.openai.com/)** and sign into your ChatGPT Pro account
 
 ![Grain0.png](https://media.grain.com/public/developer-docs/Grain0.png)
 
